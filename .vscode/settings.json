@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.mouseWheelZoom": true,
+  "workbench.editor.enablePreview": false,
+  "tslint.autoFixOnSave": true,
+  "files.eol": "\n"
+}
